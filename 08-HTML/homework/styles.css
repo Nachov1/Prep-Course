@@ -1,7 +1,8 @@
-h1 {color:aqua}
+h1  {
+    color: red;}
 img {
     width: 400px; 
-    height: 245px; }
+    height: 245px;}
 #thirdDiv {
     height: 500px;  
     width: 600px; 
@@ -10,4 +11,4 @@ img {
     border: 5px solid black;}
 #spanId {
     font-size: 18px; 
-    margin: 50px;}              
+    margin: 50px;}            

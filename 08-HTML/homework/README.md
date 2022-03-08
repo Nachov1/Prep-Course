@@ -38,6 +38,7 @@ II Añade un poco de estilo
   L. Asignar al id 'thirdDiv' un borde con cualquier ancho de color y estilo que elija.
 ```
 
+
 ```
 III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anteriores a la nueva hoja de estilo.
   A. Cree un archivo llamado styles.css en esta carpeta.
