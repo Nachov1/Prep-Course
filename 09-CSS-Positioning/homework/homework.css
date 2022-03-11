@@ -51,3 +51,10 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 #ejercicioCinco {
     flex-direction: row-reverse;}
 
+#ejercicioSiete {
+    align-items: center;
+}
+
+#elementoUno {
+    align-items: flex-start;
+}
